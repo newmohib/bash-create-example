@@ -1,5 +1,4 @@
 #!/bin/bash
- bash -xv singleDoubleQuote.sh
 echo 'String in single quote'
 echo "String in double quote"
  
