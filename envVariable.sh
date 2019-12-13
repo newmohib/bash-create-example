@@ -8,4 +8,6 @@
 source .env
 echo "$NAME"
 echo "$USERNAME"
+
+
 read -p "Server Run .." yn
