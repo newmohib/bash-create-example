@@ -1,0 +1,4 @@
+abbviePiap="https://github.com/bs-23/abbvie-piap.git"
+abbviePiapAdmin="https://github.com/bs-23/abbvie-piap-admin.git"
+abbviePiapBrance="stage"
+abbviePiapAdminBrance="develop"
